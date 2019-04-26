@@ -41,7 +41,7 @@ Pentesting and active assessments.  Once you create something, look for weakness
 ### Collect security process data (e.g., technical and administrative)
 * Account management - user accounts should be monitored, permissions checked, and passwords automatically changed
 * Management review and approval - weaknesses and risk should always be taken to management before acting. determine what the best plan forward and how much risk they want to accept.
-* Key performance and risk indicators - *no idea what this means..* 
+* Key performance and risk indicators - *Key performance indicators is a metric that indicate the positive trend in the security while KRI tracks the risk trend based on the past and current risks* 
 * Backup verification data - Information used to verify and manage should be backed up
 * Training and awareness - everyone should have to take frequent awarness training and their training should be tracked
 * Disaster Recovery (DR) and Business Continuity (BC) - there should be plans in place for what to do when bad things happen. Is a Hot site, cold site needed? Should everything be completely redundant?
